@@ -2,8 +2,8 @@
 
 The following document is a html formatted report documenting Assignment 0.
 
-**Instructions for the grading professor:**
-
+**Notes for the grading professor:**
+Since the uploaded html file has been truncated, and viewing the full file doesn't format the html source code that has been produced by R Markdown and knitr, here is an alternate solution.
 Please download the entire zip file either through the GUI or using the command:
 
 `git clone https://github.com/eaneatfruit/SRT411-Assignment-0.git`
